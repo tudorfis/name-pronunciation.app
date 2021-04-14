@@ -15,7 +15,7 @@ Table of contents
 04. header
 05. welcome
 06. features
-07. testimonials
+07. team
 08. contact
 09. footer
 10. preloader
@@ -862,17 +862,17 @@ testimonials
   margin-top: -200px;
 }
 
-#testimonials {
+#team {
   padding-top: 100px;
   position: relative;
   z-index: 9;
 }
 
-#testimonials .item {
+#team .item {
   position: relative;
 }
 
-#testimonials .item .testimonial-content {
+#team .item .testimonial-content {
   background: rgb(244,129,63);
   background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
   margin-left: 60px;
@@ -881,36 +881,36 @@ testimonials
   border-radius: 5px;
 }
 
-#testimonials .item .testimonial-content ul li {
+#team .item .testimonial-content ul li {
   display: inline-block;
   margin: 0px 1px;
 }
 
-#testimonials .item .testimonial-content ul li i {
+#team .item .testimonial-content ul li i {
   color: #fff;
   font-size: 13px;
 }
 
-#testimonials .item .testimonial-content h4 {
+#team .item .testimonial-content h4 {
   font-size: 22px;
   margin-top: 20px;
   color: #fff;
 }
 
-#testimonials .item .testimonial-content p {
+#team .item .testimonial-content p {
   color: #fff;
   font-style: italic;
   font-weight: 200;
   margin: 20px 0px 15px 0px;
 }
 
-#testimonials .item .testimonial-content span {
+#team .item .testimonial-content span {
   color: #fff;
   font-weight: 200;
   font-size: 13px;
 }
 
-#testimonials .author img {
+#team .author img {
   max-width: 120px;
   margin-bottom: -60px;
 }
